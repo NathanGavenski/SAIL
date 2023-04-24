@@ -1,0 +1,15 @@
+tensorflow==1.15.2
+tensorboard
+gym==0.15.7
+numpy==1.20.1
+protobuf==3.20
+stable-baselines[mpi]==2.10.1
+tensorboard==1.15.0
+tqdm
+scikit-learn
+progress
+box2d-py
+Box2D
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch>=1.6.0
+torchvision>=0.7.0
