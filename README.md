@@ -48,3 +48,13 @@ If you want to run the scripts using GPU it is enough to change `--gpu -1` to `-
 
 ---
 ## Citation
+```
+@INPROCEEDINGS{monteiro2023sail,
+    author={Monteiro, Juarez and Gavenski, Nathan and Meneguzzi, Felipe and Barros, Rodrigo C.},
+    booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+    title={Self-Supervised Adversarial Imitation Learning}, 
+    year={2023},
+    pages={1-8},
+    doi={10.1109/IJCNN54540.2023.10191197}
+}
+```
